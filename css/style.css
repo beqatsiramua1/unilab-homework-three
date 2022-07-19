@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/********** NAVBAR ***********/
+
+header {
+  border-bottom: 1px solid #000;
+}
+
+.nav-item {
+  list-style: none;
+  margin-left: 537px;
+}
+
+.nav-items {
+  display: inline-block;
+  margin: 30px 66px;
+  font-weight: bold;
+}
+
+.nav-items a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #000;
+}
+
+
+/********** MAIN SECTION *********/
+.index .first-h1 {
+  color: #000;
+  font-size: 24px;
+}
+
+.top-section {
+  margin-top: 72px;
+  margin-left: 518px;
+  margin-bottom: 65px;
+}
+
+.bottom-section > div{
+  width: 333px;
+  height: 487px;
+  display: inline-block;
+  border: 1px solid #000;
+  padding: 15px;
+}
+
+.bottom-section img {
+  width: 100%;
+}
+
+.left {
+  margin-left: 126px;
+}
+
+.middle {
+  margin-left: 112px;
+}
+
+.right {
+  margin-left: 98px;
+}
+
+.bottom-section h3 {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.bottom-section p {
+  font-size: 14px;
+}
+
+.bottom-section button {
+  padding: 6px 12px;
+  background-color: transparent;
+  border: 1px solid #000;
+  margin-top: 10px;
+  margin-left: 190px;
+}
+
+.footer-ul {
+  list-style: disc;
+  display: inline-block;
+  margin-top: 115px;
+}
+
+.first-ul {
+  margin-left: 131px;
+}
+
+.second-ul {
+  margin-left:187px;
+}
+
+.third-ul {
+  margin-left: 162px;
+}
+
+
+
+/*********** CONTACT *********/
+
+.top-section {
+  margin-top: 112px;
+  margin-left: 609px;
+  margin-bottom: 132px;
+}
+
+.top-section h1 {
+  font-size: 40px;
+  color: #7d0000;
+}
+
+.contact-first-link {
+  color: #000;
+}
+
+.ul li {
+  font-size: 25px;
+  margin-bottom: 32px;
+}
+
+.ul {
+  margin-left: 206px;
+  list-style: none;
+}
+
+/********* ABOUT ********/
+
+.lorem-text {
+  width: 700px;
+  font-weight: bold;
+}
